@@ -14,5 +14,4 @@ const CONFIG = {
     mess: 'kiểu này là không có người yêu rồi😘😘',
     messDesc: 'học làm gì tốn cơm hehe',
     btn Chấp nhận: 'Okiiiii lun <3',
-
 }
